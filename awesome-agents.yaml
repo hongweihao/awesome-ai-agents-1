@@ -698,6 +698,17 @@
   categories:
     - "Build Club"
 
+- project: "MemClaw"
+  project_description: "MemClaw provides persistent project memory for AI coding agents with per-project isolation, giving each project its own memory workspace with a web dashboard for reviewing and managing what your AI remembers. Free to use, MIT licensed, MCP-compatible."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Felo-Inc/memclaw"
+    - source: "website"
+      source_url: "https://memclaw.me"
+  categories:
+    - "Long-Term Memory"
+
 - project: "MemGPT"
   project_description: "MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations"
   project_is_open_source: true
